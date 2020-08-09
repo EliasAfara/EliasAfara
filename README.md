@@ -1,7 +1,7 @@
 ### Hi there, I'm Elias 👋
 
 ## I'm a Senior Computer Science Student!
-- 🌱 I’m currently on the path of becoming a full stack developer
+- 🌱 I’m currently on the path of becoming a full stack web developer
 - 🔭 I’m currently working on building my portfolio!
 - 🥅 2020-2021 Goals: Graduate and seek opportunities to build my career
 - ⚡ Fun fact: I love to play Basketball and watch Anime / TV series
