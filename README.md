@@ -12,7 +12,9 @@
 [<img align="left" alt="EliasAfara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="EliasAfara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="EliasAfara | Typeracer" width="22px" src="https://img.icons8.com/material/48/000000/user-typing-using-typewriter.png"/>][typeracer]
+[<i class="fa fa-free-code-camp" aria-hidden="true"></i>][freecodecamp]
 
 [instagram]: https://www.instagram.com/eliasafara/
 [linkedin]: https://www.linkedin.com/in/eliasafara/
 [typeracer]: https://data.typeracer.com/pit/profile?user=eliasafara
+[freecodecamp]:https://www.freecodecamp.org/eliasafara
