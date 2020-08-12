@@ -11,7 +11,7 @@
 
 [<img align="left" alt="EliasAfara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="EliasAfara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="EliasAfara | Typeracer" width="22px" src="https://img.icons8.com/material/24/000000/user-typing-using-typewriter.png"/>][typeracer]
+[<img align="left" alt="EliasAfara | Typeracer" width="22px" src="https://img.icons8.com/material/48/000000/user-typing-using-typewriter.png"/>][typeracer]
 
 [instagram]: https://www.instagram.com/eliasafara/
 [linkedin]: https://www.linkedin.com/in/eliasafara/
