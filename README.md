@@ -7,9 +7,8 @@
 <br>
 <br>
   
-- ☝️  I'm a Senior Computer Science Student!
+- 👨‍💻 I'm a Senior Computer Science Student!
 - 🌱 I’m currently on the path of becoming a full stack web developer
-- 🔭 I’m currently working on building my portfolio!
 - 🥅 2020-2021 Goals: Graduate and seek opportunities to build my career
 - ⚡ Fun fact: I love to play Basketball and watch Anime / TV series
 </td>
@@ -31,7 +30,6 @@
 <br>
 
 - Completing my Senior Year Project
-- Graduating with a Bachelor of Science in Computer Science
 - Building my dev portfolio
 - Completing [freeCodeCamp](https://www.freecodecamp.org/eliasafara) full stack certification
 - Improving my touch typing skills on [typeracer](https://data.typeracer.com/pit/profile?user=eliasafara) and [10fastfingers](https://10fastfingers.com/user/2268814/)
