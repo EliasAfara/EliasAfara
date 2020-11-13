@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-### About Myself:
+<strong>About Myself:</strong>
 <br>
 <br>
 - ☝️ I'm a Senior Computer Science Student!
@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to play Basketball and watch Anime / TV series
 </td>
 <td>
-### Some devs/people who inspire me!
+<strong>Some devs/people who inspire me!</strong>
 <br>
 <br>
   
