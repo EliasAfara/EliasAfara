@@ -1,6 +1,6 @@
 ### Hi there, I'm Elias 👋
 
-table>
+<table>
 <tr>
 <td>
 ### About Myself:
