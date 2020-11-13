@@ -6,7 +6,8 @@
 <strong>About Myself:</strong>
 <br>
 <br>
-- ☝️ I'm a Senior Computer Science Student!
+  
+- ☝️  I'm a Senior Computer Science Student!
 - 🌱 I’m currently on the path of becoming a full stack web developer
 - 🔭 I’m currently working on building my portfolio!
 - 🥅 2020-2021 Goals: Graduate and seek opportunities to build my career
@@ -22,6 +23,7 @@
 - [Simo Edwin](https://github.com/developedbyed)
 - [Brad Traversy](https://github.com/bradtraversy) and many more...
 </td>
+</tr>
 <tr>
 <td>
 <strong>Goals I am working on currently:</strong>
@@ -29,9 +31,9 @@
 <br>
 
 - Completing my Senior Year Project
-- Graduating
-- Completing [freeCodeCamp](https://www.freecodecamp.org/eliasafara) full stack certification
+- Graduating with a Bachelor of Science in Computer Science
 - Building my dev portfolio
+- Completing [freeCodeCamp](https://www.freecodecamp.org/eliasafara) full stack certification
 - Improving my touch typing skills on [typeracer](https://data.typeracer.com/pit/profile?user=eliasafara) and [10fastfingers](https://10fastfingers.com/user/2268814/)
 </td>
 <td>
@@ -43,8 +45,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <br>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <br>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </td>
 </tr>
