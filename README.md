@@ -64,4 +64,4 @@
 [linkedin]: https://www.linkedin.com/in/eliasafara/
 [codewars]:https://www.codewars.com/users/EliasAfara
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliasafara" alt="eliasafara" /> </p></div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliasafara&color=blueviolet" alt="eliasafara" /> </p></div>
