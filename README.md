@@ -9,7 +9,7 @@
   
 - 👨‍💻 I'm a Senior Computer Science Student!
 - 🌱 I’m currently on the path of becoming a full stack web developer
-- 🥅 2020-2021 Goals: Graduate and seek opportunities to build my career
+- 🥅 2021-2022 Goals: Finish senior project, graduate and seek opportunities to build my career
 - ⚡ Fun fact: I love to play Basketball and watch Anime / TV series
 </td>
 <td>
