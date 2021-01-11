@@ -57,6 +57,14 @@
 </tr>
 </table>
 
+<div>
+<details>
+  <summary>GitHub History</summary>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasafara" alt="eliasafara" /></p>
+
+</details>
+</div>
+
 
 ### Connect with me:
 
