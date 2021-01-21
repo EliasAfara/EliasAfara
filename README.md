@@ -70,7 +70,7 @@
 <details>
   <summary>GitHub History</summary>
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eliasafara&theme=dark)](https://github.com/eliasafara/github-readme-stats)
+  [![Elias's github stats](https://github-readme-stats.vercel.app/api?username=eliasafara&count_private=true&theme=dark)](https://github.com/eliasafara/github-readme-stats)
 
 </details>
 </div>
