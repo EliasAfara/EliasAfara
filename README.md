@@ -9,7 +9,8 @@
   
 - 👨‍💻 I'm a Senior Computer Science Student!
 - 🌱 I’m currently on the path of becoming a full stack web developer
-- 🥅 2021-2022 Goals: Finish senior project, graduate and seek opportunities to build my career
+- 💡 I’m currently entering the world of Artificial Intelligence (ML, NLP, Computer Vision)
+- 🥅 2021-2022 Goals: Graduate and seek opportunities to build my career
 - ⚡ Fun fact: I love to play Basketball and watch Anime / TV series
 </td>
 <td>
@@ -29,10 +30,12 @@
 <br>
 <br>
 
-- Completing my Senior Year Project
-- Building my dev portfolio
+- Improving my Portfolio
+- Improving my web development skills
+- Diving into Artificial Intelligence
 - Completing [freeCodeCamp](https://www.freecodecamp.org/eliasafara) full stack certification
-- Improving my touch typing skills on [typeracer](https://data.typeracer.com/pit/profile?user=eliasafara) and [10fastfingers](https://10fastfingers.com/user/2268814/)
+- Learning French
+
 </td>
 <td>
 <strong>My current tech stack :computer::</strong>
