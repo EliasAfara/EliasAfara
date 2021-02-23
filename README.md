@@ -18,7 +18,6 @@
 <br>
 <br>
   
-- [Rafeh Qazi](https://github.com/CleverProgrammer)
 - [Sonny Sangha](https://github.com/sonnysangha)
 - [Simo Edwin](https://github.com/developedbyed)
 - [Brad Traversy](https://github.com/bradtraversy) and many more...
