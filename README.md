@@ -3,35 +3,12 @@
 <table>
 <tr>
 <td>
-<strong>About Myself:</strong>
-<br>
-<br>
-  
-- 👨‍💻 I'm a Senior Computer Science Student!
-- 🌱 I’m currently on the path of becoming a full stack web developer
-- 💡 I’m currently entering the world of Artificial Intelligence (ML, NLP, Computer Vision)
-- 🥅 2021-2022 Goals: Graduate and seek opportunities to build my career
-- ⚡ Fun fact: I love to play Basketball and watch Anime / TV series
-</td>
-<td>
-<strong>Some devs/people who inspire me!</strong>
-<br>
-<br>
-  
-- [Sonny Sangha](https://github.com/sonnysangha)
-- [Simo Edwin](https://github.com/developedbyed)
-- [Brad Traversy](https://github.com/bradtraversy) and many more...
-</td>
-</tr>
-<tr>
-<td>
 <strong>Goals I am working on currently:</strong>
 <br>
 <br>
 
 - Improving my Portfolio
 - Improving my web development skills
-- Diving into Artificial Intelligence
 - Completing [freeCodeCamp](https://www.freecodecamp.org/eliasafara) full stack certification
 - Learning French
 
