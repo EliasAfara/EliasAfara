@@ -1,4 +1,4 @@
-### Hi there, I'm Elias <a href="https://www.linkedin.com/in/eliasafara/" target="_blank"> :smile:
+### Hi there, I'm Elias :smile:
 
 <table>
   <tr>
