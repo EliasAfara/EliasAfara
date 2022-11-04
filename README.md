@@ -6,7 +6,7 @@
 
 - 🔭 Working on improving my portfolio & web development skills
 
-- 👀 Seeking internship opportunities
+<!-- - 👀 Seeking internship opportunities -->
 
 - 💬 Ask me about Web Dev
 
@@ -58,13 +58,13 @@
 
 <!---------------------------- Github Statistics ----------------------------->
 <p align="left">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=eliasafara&show_icons=true&theme=react&bg_color=20232a&hide_border=true" />
-  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasafara&theme=react&bg_color=20232a&hide_border=true" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=eliasafara&show_icons=true&hide_border=true&theme=dracula" />
+  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasafara&hide_border=true&theme=dracula" />
 </p>
 
 
 <!---------------------------- Contribution Graph ----------------------------->
-<img src="https://activity-graph.herokuapp.com/graph?username=eliasafara&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="eliasafara | Stats"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=eliasafara&bg_color=20232a&hide_border=true&theme=dracula" width="100%" alt="eliasafara | Stats"/>
 <hr />
 
 
