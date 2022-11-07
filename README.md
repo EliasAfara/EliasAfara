@@ -59,7 +59,7 @@
 
 <!---------------------------- Github Statistics ----------------------------->
 <p align="left">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=eliasafara&show_icons=true&hide_border=true&theme=dracula" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=eliasafara&count_private=true&&show_icons=true&hide_border=true&theme=dracula" />
   <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasafara&hide_border=true&theme=dracula" />
 </p>
 
