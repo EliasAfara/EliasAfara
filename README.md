@@ -65,8 +65,8 @@
 
 
 <!---------------------------- Contribution Graph ----------------------------->
-<img src="https://activity-graph.herokuapp.com/graph?username=eliasafara&bg_color=20232a&hide_border=true&theme=dracula" width="100%" alt="eliasafara | Stats"/>
-<hr />
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=eliasafara&bg_color=20232a&hide_border=true&theme=dracula" width="100%" alt="eliasafara | Stats"/>
+<hr /> -->
 
 
 <!---------------------------- Visitors Count ----------------------------->
