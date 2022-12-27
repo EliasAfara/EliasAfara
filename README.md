@@ -94,7 +94,7 @@
 <!---------------------------- Github Statistics ----------------------------->
 <div align="center">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=eliasafara&count_private=true&&show_icons=true&hide_border=true&theme=dracula" />
-    &nbsp;&nbsp;
+<!--     &nbsp;&nbsp; -->
   <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasafara&hide_border=true&theme=dracula" />
 </div>
 
