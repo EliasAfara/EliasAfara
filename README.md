@@ -12,7 +12,7 @@
 
 - 📫 How to reach me [afaraelias@gmail.com](afaraelias@gmail.com)
 
-- 👨‍💻 All of my projects are available at **http://eliasafara.github.io/**
+- 👨‍💻 All of my projects are available at **http://eliasafara.github.io/** (outdated - needs to be updated)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
