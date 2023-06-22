@@ -1,18 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Elias Afara</h1>
-<h3 align="center">An Aspiring Software Engineer</h3>
+<h3 align="center">Junior Software Engineer - Open To Work</h3>
 
-- 🌱 Pursuing Master of Science in Computer Science with specialisation in Software Engineering
-
-- 🔭 Working on improving my portfolio & web development skills
-
-<!-- - 👀 Seeking internship opportunities -->
-
-- 💬 Ask me about Web Dev
-
-- 📫 How to reach me [afaraelias@gmail.com](afaraelias@gmail.com)
-
-- 👨‍💻 All of my projects are available at **http://eliasafara.github.io/** (outdated - needs to be updated)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
