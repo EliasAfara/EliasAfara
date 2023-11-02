@@ -50,7 +50,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Netflix clone developed using React, Node, Express, MongoDB, Java, PostgreSQL](https://ytcards.demolab.com/?id=wEl11pbAQAE&title=Netflix+clone+developed+using+React%2C+Node%2C+Express%2C+MongoDB%2C+Java%2C+PostgreSQL&lang=en&timestamp=1672156373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=130 "Netflix clone developed using React, Node, Express, MongoDB, Java, PostgreSQL")](https://www.youtube.com/watch?v=wEl11pbAQAE)
+[![Social Media Platform Built using MERN Stack 🔥 & Inspired by Instagram](https://ytcards.demolab.com/?id=gi0-auwXxlo&title=Social+Media+Platform+Built+using+MERN+Stack+%F0%9F%94%A5+%26+Inspired+by+Instagram&lang=en&timestamp=1614678556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=132 "Social Media Platform Built using MERN Stack 🔥 & Inspired by Instagram")](https://www.youtube.com/watch?v=gi0-auwXxlo)
+[![React + Firebase + MATERIAL UI 🚀 Facebook Clone Demo (with Source Code) + Firebase Setup 🔥](https://ytcards.demolab.com/?id=FbdAyfQhyQA&title=React+%2B+Firebase+%2B+MATERIAL+UI+%F0%9F%9A%80+Facebook+Clone+Demo+%28with+Source+Code%29+%2B+Firebase+Setup+%F0%9F%94%A5&lang=en&timestamp=1614118432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=337 "React + Firebase + MATERIAL UI 🚀 Facebook Clone Demo (with Source Code) + Firebase Setup 🔥")](https://www.youtube.com/watch?v=FbdAyfQhyQA)
 <!-- END YOUTUBE-CARDS -->
 
 
