@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63AAC4&height=80&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63AAC4&height=80&section=header"/> -->
 
-<h1 align="center">Hi 👋, I'm Elias Afara</h1>
-<h3 align="center">Junior Software Engineer - Open To Work</h3>
+Hey there, I'm Elias Afara, a tech wizard in the making! 💻✨ If I had a superpower, it would be debugging code with a single glance, and my kryptonite? A never-ending supply of coffee! ☕🦸🏻‍♂️
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
 
 
 <h3 align="left">Connect with me:</h3>
