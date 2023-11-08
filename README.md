@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63AAC4&height=80&section=header"/>
 
 <h1 align="center">Hi 👋, I'm Elias Afara</h1>
 <h3 align="center">Junior Software Engineer - Open To Work</h3>
