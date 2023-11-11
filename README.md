@@ -1,7 +1,7 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63AAC4&height=80&section=header"/> 
 <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/7c0cb383-74b5-40b7-8183-c3de44915605" alt="logo" width="120" align="right" /> 
 <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/83fa06d3-0f7a-47ef-bec7-22246258bd9d" alt="logo" width="160" align="right" /> -->
-<img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/7a5dfeff-5c1a-49d0-bda8-1c2d3f336ee7" alt="logo" width="160" align="right" />
+<img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/7a5dfeff-5c1a-49d0-bda8-1c2d3f336ee7" alt="logo" width="130" align="right" />
 
 # Software Developer
 
