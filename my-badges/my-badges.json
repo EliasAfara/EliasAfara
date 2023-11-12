@@ -1,0 +1,121 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/smart-elections/smart-elections-frontend/commit/ad5d3ac683ac656a3534dd53df5f9f0fdf098541\"><strong>a</strong>d5d3ac683ac656a3534dd53df5f9f0fdf098541</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/smart-elections/smart-elections-frontend/commit/ab9fdaf40787a8d9eddcc2c81169fa7260d95011\"><strong>ab</strong>9fdaf40787a8d9eddcc2c81169fa7260d95011</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EliasAfara/EliasAfara/commit/829042bfc40fc92c7a019e2459d818a014903c0e\">829042b</a>\n- <a href=\"https://github.com/EliasAfara/EliasAfara/commit/35193b4d3621f537c22d8cc161c488dd183b37fe\">35193b4</a>\n- <a href=\"https://github.com/EliasAfara/EliasAfara/commit/9f8859b1dab1e41620966e25f67c41e8332e4453\">9f8859b</a>\n- <a href=\"https://github.com/EliasAfara/product-hunt-visualizer/commit/66084d3f7e3d57b4cc616721f842c059036a1224\">66084d3</a>\n- <a href=\"https://github.com/EliasAfara/product-hunt-visualizer/commit/008ee5a8853f0f3664281991825d17335d15a835\">008ee5a</a>\n- <a href=\"https://github.com/EliasAfara/portfolio/commit/1227434598515a7d6707cda8fc14e2d179b1beb2\">1227434</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EliasAfara/product-hunt-visualizer/commit/6ca3261927c37134507a38def0509a943c9c2667\">6ca3261</a>\n- <a href=\"https://github.com/EliasAfara/product-hunt-visualizer/commit/ef2559003add8706f044ea6a8161b9623706b00e\">ef25590</a>\n- <a href=\"https://github.com/EliasAfara/react-typescript-course-goals/commit/fce2d3036f08ccc9a00cfa6caf0026741def59c7\">fce2d30</a>\n- <a href=\"https://github.com/EliasAfara/react-typescript-course-goals/commit/c6d893f92b6e8b2e2d2812eb4577c4a0af883aa6\">c6d893f</a>\n- <a href=\"https://github.com/EliasAfara/algorithmic-odyssey/commit/df9dc02f65a1af6044956f8e25b37fbac81acd9e\">df9dc02</a>\n- <a href=\"https://github.com/EliasAfara/algorithmic-odyssey/commit/46a2a11caebfce325daab178cb466a251b6ef887\">46a2a11</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/smart-elections/smart-elections-admin-frontend/commit/b8a2e625947475a04a210acd65bdf407e85e9c8a\">b8a2e62</a>\n- <a href=\"https://github.com/smart-elections/smart-elections-admin-frontend/commit/3f30a419a27a11791a4b6f7e7f2a0d8b6e10cbfb\">3f30a41</a>\n- <a href=\"https://github.com/smart-elections/smart-elections-admin-frontend/commit/730d1941b00c5d0b37a7bd36b0919593f0596ac4\">730d194</a>\n- <a href=\"https://github.com/smart-elections/smart-elections-admin-frontend/commit/94949450c2c078cf0ab89a4fb9931d0191f21be8\">9494945</a>\n- <a href=\"https://github.com/smart-elections/smart-elections-frontend/commit/15c390ff5cbe53c7c825924f93b395db0fb167a1\">15c390f</a>\n- <a href=\"https://github.com/EliasAfara/persistent-task-queue-management/commit/171e7e960ce0cadc27c641b860104fdacfec17f3\">171e7e9</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 2 times.",
+    "body": "- <a href=\"https://github.com/EliasAfara/The-Finder/commit/c5ad2f8a614d471d38b91279d7deadd7f05996c9\">c5ad2f8a614d471d38b91279d7<strong>dead</strong>d7f05996c9</a>\n- <a href=\"https://github.com/EliasAfara/algorithmic-odyssey/commit/9b19cdc7efaf88a16deadcb33a09083c161702f0\">9b19cdc7efaf88a16<strong>dead</strong>cb33a09083c161702f0</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EliasAfara/Lebanon-Freecycle/commit/5fc9fbc79460e978aa4392da16648cfd2b9173b2\">5fc9fbc</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EliasAfara/portfolio/commit/1ae4ad0f03e2256fa953c6084c094086ffde05e0\">1ae4ad0</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+  },
+  {
+    "id": "revert-revert-commit",
+    "tier": 0,
+    "desc": "I reverted a revert commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/smart-elections/smart-elections-frontend/commit/7f4c04761941991ff5981824eb454a9113679b2b\">7f4c047</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/revert-revert-commit/revert-revert-commit.png?raw=true"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/smart-elections/smart-elections-frontend/commit/b109ff9499c0dab2640852e740f691fa0c4ca8c4\">b109ff9</a>: Fixed user profile data display\n- <a href=\"https://github.com/smart-elections/smart-elections-frontend/commit/fc7bf09dfd0d24a021e7ba99a9d25eb2d7e31a9a\">fc7bf09</a>: Fixed display issues",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EliasAfara/Lebanon-Freecycle/commit/a9596524b7f192cb0c72c711a407a38f920ea013\">a959652</a>: fixing issues\n- <a href=\"https://github.com/EliasAfara/Lebanon-Freecycle/commit/8555f092cf834d8fcc9ce3dc9dc64e9c146cb2c8\">8555f09</a>: fix\n- <a href=\"https://github.com/EliasAfara/Lebanon-Freecycle/commit/027ff07c337e2421a21be0bc9bc01f1acbe392c9\">027ff07</a>: fix\n- <a href=\"https://github.com/EliasAfara/Lebanon-Freecycle/commit/45f5353f0d5c64c8bb34cd351633afb03179739a\">45f5353</a>: Fixing deployment issue",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-4.png?raw=true"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EliasAfara/futureon-technical-test/commit/385cca92ec2d8f4adadf5a2cafc0182065111f63\">385cca9</a>: chore: Refactor main.js for improved readability and modularity",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/chore-commit/chore-commit.png?raw=true"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EliasAfara/DevConnector/commit/1fa5c86579fae996a9e7e167963c723391dd3750\">1fa5c86</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/delorean/delorean.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 146 times)\n2. and (used 135 times)\n3. added (used 135 times)\n4. created (used 127 times)\n5. & (used 117 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  },
+  {
+    "id": "emoji-only-commit",
+    "tier": 0,
+    "desc": "I used only emojis in my commit message.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/EliasAfara/Lebanon-Freecycle/commit/3943a5adeda21317bc00439199973b3646ee3929\">3943a5a</a>: ➕\n- <a href=\"https://github.com/EliasAfara/Lebanon-Freecycle/commit/26cee2bd7d4ce323697429bf712391f29a995859\">26cee2b</a>: 🔇\n- <a href=\"https://github.com/EliasAfara/Lebanon-Freecycle/commit/e8035866ef4d198a7bc9d358d31fc4c05b34577e\">e803586</a>: 🩹\n- <a href=\"https://github.com/EliasAfara/Lebanon-Freecycle/commit/daad28e595ecd0e744a12c108bed569febe74e2d\">daad28e</a>: 🔇\n- <a href=\"https://github.com/EliasAfara/Lebanon-Freecycle/commit/76c0f8d0d31cf566a5044c1636d3b6e05463655f\">76c0f8d</a>: 🔇\n- <a href=\"https://github.com/EliasAfara/Lebanon-Freecycle/commit/d0613ce5c15c1ed1285c198759d1d885b6f3847e\">d0613ce</a>: 🔊\n- <a href=\"https://github.com/EliasAfara/Lebanon-Freecycle/commit/ce1a5d0a168e0efa9ac1daf9bea3b4a27fda3b3f\">ce1a5d0</a>: 🚧\n- <a href=\"https://github.com/EliasAfara/Lebanon-Freecycle/commit/db0b6163cf4f5ba8b1fbf0b965225cae28a7e847\">db0b616</a>: 🚑",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/emoji-only-commit/emoji-only-commit.png?raw=true"
+  }
+]
