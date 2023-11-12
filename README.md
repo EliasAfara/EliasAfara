@@ -1,6 +1,3 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63AAC4&height=80&section=header"/> 
-<img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/7c0cb383-74b5-40b7-8183-c3de44915605" alt="logo" width="120" align="right" /> 
-<img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/83fa06d3-0f7a-47ef-bec7-22246258bd9d" alt="logo" width="160" align="right" /> -->
 <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/7a5dfeff-5c1a-49d0-bda8-1c2d3f336ee7" alt="logo" width="130" align="right" />
 
 # Software Developer
@@ -8,13 +5,20 @@
 Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a superpower, it would be debugging code with a single glance, and my kryptonite? A never-ending supply of coffee! ☕🦸🏻‍♂️
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thegrindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thegrindev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eliasafara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eliasafara" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/elias afara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elias afara" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/eliasafara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eliasafara" height="30" width="40" /></a>
+  <a href="https://twitter.com/thegrindev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thegrindev" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/eliasafara" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eliasafara" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/elias afara" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elias afara" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/eliasafara" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eliasafara" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,22 +55,25 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" height="40" width="40"  />
 </div>
 
-#
+---
 
 ### 📺 Latest YouTube Videos
 
 <div align="center">
 
+<!---------------------------- My Github Videos ----------------------------->
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![Product Hunt API - Products Visualizer - Infinite Scroll - Angular, Node.js, Typescript, GraphQL](https://ytcards.demolab.com/?id=29hZOz_Cvkc&title=Product+Hunt+API+-+Products+Visualizer+-+Infinite+Scroll+-+Angular%2C+Node.js%2C+Typescript%2C+GraphQL&lang=en&timestamp=1699614204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=106 "Product Hunt API - Products Visualizer - Infinite Scroll - Angular, Node.js, Typescript, GraphQL")](https://www.youtube.com/watch?v=29hZOz_Cvkc)
 [![Netflix clone developed using React, Node, Express, MongoDB, Java, PostgreSQL](https://ytcards.demolab.com/?id=wEl11pbAQAE&title=Netflix+clone+developed+using+React%2C+Node%2C+Express%2C+MongoDB%2C+Java%2C+PostgreSQL&lang=en&timestamp=1672156373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=130 "Netflix clone developed using React, Node, Express, MongoDB, Java, PostgreSQL")](https://www.youtube.com/watch?v=wEl11pbAQAE)
 [![Social Media Platform Built using MERN Stack 🔥 & Inspired by Instagram](https://ytcards.demolab.com/?id=gi0-auwXxlo&title=Social+Media+Platform+Built+using+MERN+Stack+%F0%9F%94%A5+%26+Inspired+by+Instagram&lang=en&timestamp=1614678556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=132 "Social Media Platform Built using MERN Stack 🔥 & Inspired by Instagram")](https://www.youtube.com/watch?v=gi0-auwXxlo)
 [![React + Firebase + MATERIAL UI 🚀 Facebook Clone Demo (with Source Code) + Firebase Setup 🔥](https://ytcards.demolab.com/?id=FbdAyfQhyQA&title=React+%2B+Firebase+%2B+MATERIAL+UI+%F0%9F%9A%80+Facebook+Clone+Demo+%28with+Source+Code%29+%2B+Firebase+Setup+%F0%9F%94%A5&lang=en&timestamp=1614118432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=337 "React + Firebase + MATERIAL UI 🚀 Facebook Clone Demo (with Source Code) + Firebase Setup 🔥")](https://www.youtube.com/watch?v=FbdAyfQhyQA)
+
 <!-- END YOUTUBE-CARDS -->
 
 </div>
 
-#
+---
 
 ### 📊 Stats
 
@@ -77,11 +84,25 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
   <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasafara&hide_border=true&theme=dracula" />
 </div>
 
+---
 
-<!---------------------------- Contribution Graph ----------------------------->
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=eliasafara&bg_color=20232a&hide_border=true&theme=dracula" width="100%" alt="eliasafara | Stats"/>
-<hr /> -->
+<!---------------------------- My Costume Github Badges ----------------------------->
+<!-- my-badges start -->
+<!-- my-badges end -->
 
 <br>
+
 <!---------------------------- Visitors Count ----------------------------->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eliasafara&color=grey" alt="eliasafara" /> </p>
+
+<!---------------------------- Drafts ----------------------------->
+
+<!---------------------------- Contribution Graph ----------------------------->
+<!--
+<img src="https://activity-graph.herokuapp.com/graph?username=eliasafara&bg_color=20232a&hide_border=true&theme=dracula" width="100%" alt="eliasafara | Stats"/>
+<hr />
+-->
+
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63AAC4&height=80&section=header"/> -->
+
+<!-- npx update-my-badges --user eliasafara --token=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 --dryrun -->
