@@ -104,5 +104,3 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
 -->
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63AAC4&height=80&section=header"/> -->
-
-<!-- npx update-my-badges --user eliasafara --token=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 --dryrun -->
