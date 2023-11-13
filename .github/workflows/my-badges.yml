@@ -1,6 +1,7 @@
 name: my-badges
 
 on:
+  workflow_dispatch:
   workflow_run:
     workflows: ["GitHub Readme YouTube Cards"]
     types:
