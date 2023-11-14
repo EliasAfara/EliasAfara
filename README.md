@@ -49,11 +49,11 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
 
 ---
 
-### 📺 Latest YouTube Videos
+<details> 
+  <summary><h3>📺 Latest YouTube Videos</h3></summary>
 
 <div align="center">
-
-<!---------------------------- My Github Videos ----------------------------->
+  
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Product Hunt API - Products Visualizer - Infinite Scroll - Angular, Node.js, Typescript, GraphQL](https://ytcards.demolab.com/?id=29hZOz_Cvkc&title=Product+Hunt+API+-+Products+Visualizer+-+Infinite+Scroll+-+Angular%2C+Node.js%2C+Typescript%2C+GraphQL&lang=en&timestamp=1699614204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=106 "Product Hunt API - Products Visualizer - Infinite Scroll - Angular, Node.js, Typescript, GraphQL")](https://www.youtube.com/watch?v=29hZOz_Cvkc)
 [![Netflix clone developed using React, Node, Express, MongoDB, Java, PostgreSQL](https://ytcards.demolab.com/?id=wEl11pbAQAE&title=Netflix+clone+developed+using+React%2C+Node%2C+Express%2C+MongoDB%2C+Java%2C+PostgreSQL&lang=en&timestamp=1672156373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=130 "Netflix clone developed using React, Node, Express, MongoDB, Java, PostgreSQL")](https://www.youtube.com/watch?v=wEl11pbAQAE)
@@ -62,6 +62,7 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
 <!-- END YOUTUBE-CARDS -->
 
 </div>
+</details>
 
 ---
 
