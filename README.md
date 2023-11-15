@@ -5,9 +5,7 @@
 Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a superpower, it would be debugging code with a single glance, and my kryptonite? A never-ending supply of coffee! ☕🦸🏻‍♂️
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
 
-<!-- <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/86f33e8a-a3ff-4040-ba18-070bedce23b1" alt="rolling-dragon-gif" height="130" align="right" /> -->
-
-<img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/c60efc9f-9b69-44fc-86d7-2bc454bac820" alt="rolling-dragon-gif" height="130" align="right" />
+<img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/13b4cdc9-06af-4def-aecd-77de3f8d90e5" alt="rolling-dragon-gif" height="130" align="right" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,6 +14,8 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
 <a href="https://www.youtube.com/c/elias afara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elias afara" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/eliasafara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eliasafara" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
