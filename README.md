@@ -6,10 +6,9 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
 
 
-<img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/84c2c395-a583-4a14-bb7d-c6e84cf80e9a" alt="rolling-dragon-gif" height="130" align="right" />
+<img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/4e05c064-5fc3-48a4-b938-667131742734" alt="rolling-dragon-gif" height="130" align="right" />
 
 <!-- <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/13b4cdc9-06af-4def-aecd-77de3f8d90e5" alt="rolling-dragon-gif" height="130" align="right" /> -->
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
