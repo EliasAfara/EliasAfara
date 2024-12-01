@@ -7,6 +7,15 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
 
 <!-- <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/13b4cdc9-06af-4def-aecd-77de3f8d90e5" alt="rolling-dragon-gif" height="130" align="right" /> -->
 
+## 🛠 Tech Stack
+
+### Salesforce Development
+- **Languages:** Apex, Visualforce, Lightning Web Components (LWC), SOQL  
+- **Tools:** VS Code with Salesforce Extensions  
+<!-- - **Platforms:** Salesforce Sales Cloud, Service Cloud, Experience Cloud  
+- **Customizations:** Triggers, Batch Jobs, Flows, Approval Processes  
+<!-- - **Integrations:** REST/SOAP APIs, External Services  
+
 <!--
 <h3 align="left">Languages and Tools:</h3>
 
