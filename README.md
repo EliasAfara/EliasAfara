@@ -3,14 +3,13 @@
 # Software Developer
 
 Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a superpower, it would be debugging code with a single glance, and my kryptonite? A never-ending supply of coffee! ☕🦸🏻‍♂️
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>  -->
 
-<div align="center">
-  <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/23007ae3-8ef7-4957-a5a5-6d78efe02c03" alt="rolling-dragon-gif" height="130" />
-</div>
+
 
 <!-- <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/13b4cdc9-06af-4def-aecd-77de3f8d90e5" alt="rolling-dragon-gif" height="130" align="right" /> -->
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="center">
@@ -46,7 +45,7 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
 </div>
 
 ---
-
+ -->
 <details> 
   <summary><h3>📺 Latest YouTube Videos</h3></summary>
 
@@ -77,6 +76,7 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
 
 <!---------------------------- My Costume Github Badges ----------------------------->
 <!-- my-badges start -->
+<!--
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
 
 <a href="my-badges/a-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
@@ -97,6 +97,11 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
 <a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="64"></a>
 <a href="my-badges/emoji-only-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/emoji-only-commit/emoji-only-commit.png?raw=true" alt="I used only emojis in my commit message." title="I used only emojis in my commit message." width="64"></a>
 <!-- my-badges end -->
+
+
+<div align="center">
+  <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/23007ae3-8ef7-4957-a5a5-6d78efe02c03" alt="rolling-dragon-gif" height="130" />
+</div>
 
 <br>
 
