@@ -1,5 +1,3 @@
-<img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/7a5dfeff-5c1a-49d0-bda8-1c2d3f336ee7" alt="logo" width="130" align="right" />
-
 # Software Developer
 
 Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a superpower, it would be debugging code with a single glance, and my kryptonite? A never-ending supply of coffee! ☕🦸🏻‍♂️
@@ -100,6 +98,7 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
 
 
 <div align="center">
+  <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/7a5dfeff-5c1a-49d0-bda8-1c2d3f336ee7" alt="logo" width="130" align="right" />
   <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/23007ae3-8ef7-4957-a5a5-6d78efe02c03" alt="rolling-dragon-gif" height="130" />
 </div>
 
