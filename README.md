@@ -7,9 +7,7 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
 
 <!-- <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/13b4cdc9-06af-4def-aecd-77de3f8d90e5" alt="rolling-dragon-gif" height="130" align="right" /> -->
 
-## 🛠 Tech Stack
-
-### Salesforce Development
+## Salesforce Development Tech Stack
 - **Languages:** Apex, Visualforce, Lightning Web Components (LWC), SOQL  
 - **Tools:** VS Code with Salesforce Extensions  
 <!-- - **Platforms:** Salesforce Sales Cloud, Service Cloud, Experience Cloud  
@@ -53,24 +51,25 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
 
 ---
  -->
+<!--
 <details> 
   <summary><h3>📺 Latest YouTube Videos</h3></summary>
 
 <div align="center">
-  
+ -->  
 <!-- BEGIN YOUTUBE-CARDS -->
+<!--
 [![Product Hunt API - Products Visualizer - Infinite Scroll - Angular, Node.js, Typescript, GraphQL](https://ytcards.demolab.com/?id=29hZOz_Cvkc&title=Product+Hunt+API+-+Products+Visualizer+-+Infinite+Scroll+-+Angular%2C+Node.js%2C+Typescript%2C+GraphQL&lang=en&timestamp=1699614204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=106 "Product Hunt API - Products Visualizer - Infinite Scroll - Angular, Node.js, Typescript, GraphQL")](https://www.youtube.com/watch?v=29hZOz_Cvkc)
 [![Netflix clone developed using React, Node, Express, MongoDB, Java, PostgreSQL](https://ytcards.demolab.com/?id=wEl11pbAQAE&title=Netflix+clone+developed+using+React%2C+Node%2C+Express%2C+MongoDB%2C+Java%2C+PostgreSQL&lang=en&timestamp=1672156373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=130 "Netflix clone developed using React, Node, Express, MongoDB, Java, PostgreSQL")](https://www.youtube.com/watch?v=wEl11pbAQAE)
 [![Social Media Platform Built using MERN Stack 🔥 & Inspired by Instagram](https://ytcards.demolab.com/?id=gi0-auwXxlo&title=Social+Media+Platform+Built+using+MERN+Stack+%F0%9F%94%A5+%26+Inspired+by+Instagram&lang=en&timestamp=1614678556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=132 "Social Media Platform Built using MERN Stack 🔥 & Inspired by Instagram")](https://www.youtube.com/watch?v=gi0-auwXxlo)
 [![React + Firebase + MATERIAL UI 🚀 Facebook Clone Demo (with Source Code) + Firebase Setup 🔥](https://ytcards.demolab.com/?id=FbdAyfQhyQA&title=React+%2B+Firebase+%2B+MATERIAL+UI+%F0%9F%9A%80+Facebook+Clone+Demo+%28with+Source+Code%29+%2B+Firebase+Setup+%F0%9F%94%A5&lang=en&timestamp=1614118432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=337 "React + Firebase + MATERIAL UI 🚀 Facebook Clone Demo (with Source Code) + Firebase Setup 🔥")](https://www.youtube.com/watch?v=FbdAyfQhyQA)
 <!-- END YOUTUBE-CARDS -->
 
+<!--
 </div>
 </details>
-
+ -->
 ---
-
-### 📊 Stats
 
 <!---------------------------- Github Statistics ----------------------------->
 <div align="center">
@@ -107,7 +106,7 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
 
 
 <div align="center">
-  <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/7a5dfeff-5c1a-49d0-bda8-1c2d3f336ee7" alt="logo" width="130" align="right" />
+  <!-- <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/7a5dfeff-5c1a-49d0-bda8-1c2d3f336ee7" alt="logo" width="130" align="right" />  -->
   <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/23007ae3-8ef7-4957-a5a5-6d78efe02c03" alt="rolling-dragon-gif" height="130" />
 </div>
 
