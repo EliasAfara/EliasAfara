@@ -69,7 +69,7 @@ Hey there, I'm **Elias Afara**, a tech wizard in the making! 💻✨ If I had a 
 </div>
 </details>
  -->
----
+
 
 <!---------------------------- My Costume Github Badges ----------------------------->
 <!-- my-badges start -->
